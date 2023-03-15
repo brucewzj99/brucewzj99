@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @brucewzj99! 
 - 👀 I’m a Software Engineering undergraduate at the Singapore Institute of Technology!
-- 📫 How to reach me: brucewzj99@gmail.com
+- 📫 How to reach me: hello@brucewzj.com
 
 <!--
 **brucewzj99/brucewzj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

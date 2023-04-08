@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m @brucewzj99! 
 - 👀 I’m a Software Engineering undergraduate at the Singapore Institute of Technology!
+- 🎨 Profile picture by my lovely partner 
 - 📫 How to reach me: hello@brucewzj.com
 
 <!--

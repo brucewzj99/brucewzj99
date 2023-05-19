@@ -1,20 +1,12 @@
-### Hi there 👋
-- 👋 Hi, I’m @brucewzj99! 
+## Hi there 👋
 - 👀 I’m a Software Engineering undergraduate at the Singapore Institute of Technology!
 - 🎨 Profile picture by my lovely partner 
-- 📫 How to reach me: hello@brucewzj.com
 
-<!--
-**brucewzj99/brucewzj99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+- 📫 Email: hello@brucewzj.com
+- 💼 Linkedin: https://www.linkedin.com/in/brucewzj/
+- 🌐 Website: https://brucewzj.com
 
-Here are some ideas to get you started:
-- 👀 I’m interested in building a positive community!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucewzj99&theme=dracula&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brucewzj99&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

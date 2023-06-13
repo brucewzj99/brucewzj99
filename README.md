@@ -8,5 +8,5 @@
 - 🌐 Website: https://brucewzj.com
 
 ## Github Stats
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucewzj99&theme=dracula&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucewzj99&theme=dracula&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)<br/>
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brucewzj99&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

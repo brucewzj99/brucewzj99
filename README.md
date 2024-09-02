@@ -3,7 +3,7 @@
 - 🎨 Profile picture by my lovely partner 
 
 ## Contact
-- 📫 Email: hello@brucewzj.com
+- 📫 Email: contact@brucewzj.com
 - 💼 Linkedin: https://www.linkedin.com/in/brucewzj/
 - 🌐 Website: https://brucewzj.com
 
